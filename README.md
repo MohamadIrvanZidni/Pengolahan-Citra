@@ -2,7 +2,7 @@
 
 | Nama        | NIM       | Kelas     | Mata Kuliah      |
 | ----------- | --------- | --------- | ---------------- |
-| Nurul Akbar | 312210413 | TI.22.B.2 | Pengolahan Citra |
+| Mohamad Irvan Zidni | 312210308 | TI.22.B.2 | Pengolahan Citra |
 
 # K-Means Clustering pada Gambar
 
